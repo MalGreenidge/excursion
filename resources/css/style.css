@@ -1,4 +1,38 @@
 * {
     background-color: black;
     color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.action {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+footer {
+    text-align: right;
+    font-size: 15px;
+}
+
+article p {
+    font-size: 21px;
+}
+
+article h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+footer p, article p {
+    color: gray;
 }
